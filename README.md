@@ -27,3 +27,28 @@ A sophisticated leave management system with AI chatbot integration, natural lan
 ```bash
 git clone https://github.com/DanunjayaRao/leave-management-system.git
 cd leave-management-system
+
+2. **Install dependencies**
+```bash
+pip install -r requirements.txt
+or
+pip install gradio pandas openpyxl dateparser
+
+3. **Run the application**
+```bash
+python app.py
+
+4.  **Access the system**
+Open browser and go to: http://localhost:7860
+
+🔑 Demo Credentials
+Employees: 1000-1010
+Admins: 5000, 8001, 6099
+Password: leave
+
+🛠️ Technical Stack
+Frontend: Gradio
+Backend: Python
+Database: Excel with pandas
+AI/NLP: Custom chatbot with dateparser
+Authentication: Custom role-based system
