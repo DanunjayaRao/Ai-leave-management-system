@@ -233,8 +233,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [troubleshooting section](#-troubleshooting)
-2. Create an [issue](https://github.com/yourusername/leave-management-system/issues)
-3. Email: your-email@example.com
+2. Create an [issue](https://github.com/DanunjayaRao/leave-management-system/issues)
+3. Email: dileepinumula@gmail.com
 
 ## 🙏 Acknowledgments
 
