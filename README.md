@@ -28,7 +28,7 @@ A sophisticated leave management system with AI chatbot integration, natural lan
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/leave-management-system.git
+git clone https://github.com/DanunjayaRao/leave-management-system.git
 cd leave-management-system
 ```
 
